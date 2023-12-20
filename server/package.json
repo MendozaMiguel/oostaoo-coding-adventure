@@ -20,7 +20,7 @@
     "eslint-plugin-react": "^7.7.0"
   },
   "dependencies": {
-    "knex": "latest",
+    "knex": "0.95.0",
     "lodash": "^4.17.5",
     "mysql": "2.16.0",
     "strapi": "^3.0.0-alpha.25.2",
